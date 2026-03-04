@@ -248,13 +248,54 @@ stats:
 
 ---
 
+## 🏅 Unique Badges — Real Stats
+
+<div align="center">
+
+<!-- GitHub Account Age -->
+![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2020-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+![Merged PRs](https://img.shields.io/badge/Merged%20PRs-616%2B-2ea44f?style=for-the-badge&logo=git-merge&logoColor=white)
+![Issues Created](https://img.shields.io/badge/Issues%20Created-355%2B-e74c3c?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- Skills & Role -->
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AI Engineer](https://img.shields.io/badge/AI%2FML-Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-28a745?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+<!-- Career -->
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects%20Built-14%2B-FF5722?style=for-the-badge&logo=rocket&logoColor=white)
+![Clients](https://img.shields.io/badge/Happy%20Clients-7%2B-f39c12?style=for-the-badge&logo=handshake&logoColor=white)
+
+<!-- Location & Availability -->
+![Location](https://img.shields.io/badge/📍%20Lucknow-India-FF9933?style=for-the-badge&logoColor=white)
+![Available](https://img.shields.io/badge/Status-Available%20for%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Remote](https://img.shields.io/badge/Work%20Mode-Remote%20%7C%20Hybrid-4A90D9?style=for-the-badge&logo=zoom&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements Unlocked
+
+<div align="center">
+
+| 🦈 Arctic Code Vault | 🌊 YOLO | ⭐ Starstruck | 🤠 Quickdraw | ❤️ Heart on Sleeve |
+|:---:|:---:|:---:|:---:|:---:|
+| **×3** | **✅** | **✅** | **✅** | **✅** |
+| Code archived in Arctic | Merged PR without review | Got a star | Closed in < 5 min | Reacted with ❤️ |
+
+</div>
+
+---
+
 ## 📊 Quick Stats
 
 <div align="center">
 
-| 🏆 Projects Completed | 😊 Happy Clients | ⏳ Years of Experience |
-|:---:|:---:|:---:|
-| **14+** | **7+** | **2+** |
+| 🏆 Projects | 😊 Clients | ⏳ Experience | 🔀 Merged PRs | 🐞 Issues |
+|:---:|:---:|:---:|:---:|:---:|
+| **14+** | **7+** | **2+ Years** | **616+** | **355+** |
 
 </div>
 
