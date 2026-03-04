@@ -174,14 +174,22 @@ stats:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nomanqadri34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanqadri34&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=6C63FF" alt="GitHub Streak"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanqadri34&theme=tokyonight" alt="Profile Details"/>
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanqadri34&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomanqadri34&theme=tokyonight" alt="Stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomanqadri34&theme=tokyonight" alt="Top Languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nomanqadri34&theme=tokyonight" alt="Most Used Languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanqadri34&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomanqadri34&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
@@ -191,7 +199,7 @@ stats:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nomanqadri34&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=nomanqadri34&theme=radical&no-frame=true&margin-w=4" alt="Trophies"/>
 
 </div>
 
